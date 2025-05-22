@@ -1,5 +1,7 @@
 ## Olá Eu Sou o João Victor 👋
 
+-🌱 Estudando: React, Node
+
  <div>
   <a href="https://github.com/JoaoFigueired0"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFigueired0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
