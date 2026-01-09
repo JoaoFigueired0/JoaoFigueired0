@@ -19,6 +19,8 @@ Atualmente, estou aprofundando meus estudos em **React, Node.js** e conceitos de
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+---
+
 - JavaScript (Intermediário)
 - React (Básico)
 - HTML5 (Avançado)
