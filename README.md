@@ -27,7 +27,6 @@ Atualmente, estou aprofundando meus estudos em **React, Node.js** e conceitos de
 - CSS3 (Avançado)
 - Consumo de APIs REST (Fetch API)
 - Git & GitHub
-- Node.js (Básico)
 
 ---
 
